@@ -1,5 +1,12 @@
-github for windows:
+github for windows
+
+push to github:
 1.Open in Git Shell
 2.git add dir/files (git add -f dir/files)
 3.git commit (input remark)
 4.git push
+
+clone from github:
+1.open git shell
+2.cd dir
+3.git clone url
