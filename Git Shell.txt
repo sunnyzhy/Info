@@ -10,3 +10,6 @@ clone from github:
 1.open git shell
 2.cd dir
 3.git clone url
+
+撤销修改：
+git checkout -- file
