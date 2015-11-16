@@ -11,5 +11,5 @@ clone from github:
 2.cd dir
 3.git clone url
 
-撤销修改：
-git checkout -- file
+从服务器上更新到本地：
+git checkout -- file or dir
