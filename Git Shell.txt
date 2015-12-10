@@ -2,9 +2,10 @@ github for windows
 
 push to github:
 1.Open in Git Shell
-2.git add dir/files (git add -f dir/files)
-3.git commit (input remark)
-4.git push
+2.git add -f dir/files
+3.git commit -m "备注" (提交新增的文件)
+4.git commit -a -m "备注" (提交内容有变化的文件)
+5.git push
 
 clone from github:
 1.open git shell
