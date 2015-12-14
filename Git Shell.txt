@@ -14,3 +14,6 @@ clone from github:
 
 从服务器上更新到本地：
 git checkout -- file or dir
+
+强制更新到服务器：
+git push --force
