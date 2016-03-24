@@ -5,15 +5,23 @@ $ git commit -m "备注" (提交新增的文件)
 $ git commit -a -m "备注" (提交内容有变化的文件)
 $ git push
 
+
+
 clone from github:
 $ cd dir
 $ git clone giturl
 
+
+
 从服务器上更新到本地：
 $ git checkout -- file or dir
 
+
+
 强制更新到服务器：
 $ git push --force
+
+
 
 创建远程仓库：
 1.创建本地仓库：
@@ -37,3 +45,6 @@ $ git push -u origin master
 
 
 
+还原本地未提交的代码：
+$ git rm --cached
+$ git checkout *
