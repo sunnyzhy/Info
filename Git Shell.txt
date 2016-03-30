@@ -35,7 +35,7 @@ $ git commit -m "add test txt file"
 $ ssh-keygen -t rsa -C "iamaant100@163.com" 
 注意：
     使用默认设置，一路回车即可；
-    在Users目录下会生成.ssh的文件夹，里面有id_rsa和id_rsa.pub两个文件；
+    根据提示的"saved in 路径"，在该路径下会生成.ssh的文件夹，里面有id_rsa和id_rsa.pub两个文件；
     登陆github，https://github.com/settings/ssh；
     点击Add SSH key，把id_rsa.pub文件的内容直接复制到Key文本框中，Title内容自定义。
 3.在github上创建一个新的仓库testgit。
