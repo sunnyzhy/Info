@@ -24,7 +24,7 @@ $ git push --force
 
 
 创建远程仓库：
-1.检测SSH keys，若已经存在key，就直接进入第3步
+1.检测SSH keys，若已经存在key，就直接进入第4步
 $ cd ~/.ssh
 
 2.备份原来的SSH keys并删除
