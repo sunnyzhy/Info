@@ -16,7 +16,8 @@ $ git clone giturl
 从服务器上更新到本地：
 $ git checkout -- file or dir
 
-
+将服务器代码更新到本地：
+$ git pull
 
 强制更新到服务器：
 $ git push --force
